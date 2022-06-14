@@ -1,0 +1,19 @@
+{
+  "name": "pruebatecnica",
+  "version": "1.0.0",
+  "description": "Technical test solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome --e2e"
+  },
+  "keywords": [
+    "test",
+    "automation",
+    "cypress"
+  ],
+  "author": "Hector Vergara",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.1.0"
+  }
+}
